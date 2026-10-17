@@ -1,0 +1,6 @@
+{
+  "name": "Trạm Cảm Xúc Từ Trái Tim",
+  "description": "Ứng dụng chia sẻ cảm xúc, hỗ trợ tâm lý học đường và xây dựng trường học hạnh phúc cho học sinh tiểu học.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
